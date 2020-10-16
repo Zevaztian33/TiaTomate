@@ -9965,6 +9965,11 @@ header h1 {
   padding: 0 100px;
 }
 
+@media (min-width: 320px) and (max-width: 991.98px) {
+  .zonagris p, .zonablanca p, .nosotros p {
+    padding: 0 20px;
+  }
+}
 .contacto {
   background-color: #E56353;
   font-family: "Raleway", sans-serif;

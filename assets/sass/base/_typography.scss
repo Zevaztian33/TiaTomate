@@ -77,6 +77,15 @@ header{
     }
 }
 
+@media (min-width: 320px) and (max-width: 991.98px){
+    .zonagris, .zonablanca, .nosotros{
+        p{
+            padding: 0 20px;
+        }
+    }
+}
+
+
 .contacto{
     background-color: $tomate;
     font-family: 'Raleway', sans-serif;
