@@ -1,0 +1,35 @@
+.zonagris{
+    background-color: $grisclaro;
+    padding: 70px 0;
+    
+    img{
+        width: 100%;
+    }
+}
+
+.zonablanca{
+    background-color: $casiblanco;
+    padding: 70px 0;
+    
+    img{
+        width: 100%;
+    }
+}
+
+.nosotros{
+    h1{
+        background-color: $tomate;
+        padding: 70px 0;
+    }
+
+    &__interior{
+        background-color: $casiblanco;
+        padding: 70px 0;
+            img{
+                width: 50%;
+                display:block;
+                margin:auto;
+                padding: 20px 0;
+            }
+    }
+}

@@ -1,0 +1,97 @@
+header{
+    p{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 200;
+        font-size: 50px;
+        color: #ffffff;
+    }
+
+    h1{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 70px;
+        color: #ffffff;
+    }
+}
+
+.zonagris{
+    h2{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 50px;
+        color: #ffffff;
+        text-align: center;
+        padding: 30px 0;
+    }
+
+        p{
+            font-family: 'Raleway', sans-serif;
+            font-weight: 200;
+            color: #ffffff;
+            padding: 0 100px;
+        }
+}
+
+.zonablanca{
+    h2{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 50px;
+        color: #000000;
+        text-align: center;
+        padding: 30px 0;
+    }
+
+        p{
+            font-family: 'Raleway', sans-serif;
+            font-weight: 400;
+            color:  #000000;
+            padding: 0 100px;
+        }
+}
+
+.nosotros{
+    font-family: 'Raleway', sans-serif;
+    h1{
+        color: #ffffff;
+        font-size: 50px;
+        font-weight: bold;
+        text-align: center;
+    }
+    &__interior{
+        h2{
+            font-family: 'Raleway', sans-serif;
+            font-weight: 700;
+            font-size: 50px;
+            color: #000000;
+            text-align: center;
+            padding: 30px 0;
+        }
+    
+            p{
+                font-family: 'Raleway', sans-serif;
+                font-weight: 400;
+                color:  #000000;
+                padding: 0 100px;
+            }
+    }
+}
+
+.contacto{
+    background-color: $tomate;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    padding: 30px 0;
+    
+        h1{
+            color: #ffffff;
+            font-size: 50px;
+            font-weight: bold;
+        }
+
+        .boton{
+            color: $grisoscuro;
+            font-size: 30px;
+            font-weight: bold;
+        }
+}
